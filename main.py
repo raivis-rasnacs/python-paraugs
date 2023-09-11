@@ -5,3 +5,4 @@
 print("mans vārds")
 print('Davis')
 print("Raivis")
+print("Kristers Novikovs")
