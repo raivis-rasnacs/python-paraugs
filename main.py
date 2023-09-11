@@ -4,3 +4,4 @@
 
 print("mans vārds")
 print("Donats")
+print("Kristers Novikovs")
